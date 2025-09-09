@@ -6,9 +6,10 @@
 🚀 Project Overview
    Customer churn is a critical business problem in the telecom industry — retaining existing customers is more cost-effective than acquiring new ones.
    This project builds a complete end-to-end ML pipeline to identify customers likely to churn, using the Telco Customer Churn dataset.
-```
+
 📂 Dataset
 Source: [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+```
   Size: 7,043 rows × 21 columns
   Target Variable: Churn (Yes = customer left, No = retained)
   Features include:
